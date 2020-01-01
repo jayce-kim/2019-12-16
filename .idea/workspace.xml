@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce039b21-c97a-4079-a00c-95246d9f626e" name="Default Changelist" comment="시험삼아 해보자">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\test\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VkNVnYJebCvMe39WqUTyMQofKi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce039b21-c97a-4079-a00c-95246d9f626e" name="Default Changelist" comment="" />
+      <created>1577793158545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577793158545</updated>
+      <workItem from="1577793159688" duration="1695000" />
+      <workItem from="1577844874001" duration="12038000" />
+    </task>
+    <task id="LOCAL-00001" summary="시험삼아 해보자">
+      <created>1577794635042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577794635042</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="시험삼아 해보자" />
+    <option name="LAST_COMMIT_MESSAGE" value="시험삼아 해보자" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1368" y="396" key="#HTML" timestamp="1577847590752">
+      <screen x="-1920" y="217" width="1920" height="1080" />
+    </state>
+    <state x="-1368" y="396" key="#HTML/-1920.217.1920.1080/0.0.2560.1440/2560.206.1920.1080@-1920.217.1920.1080" timestamp="1577847590752" />
+    <state x="-1368" y="396" key="#JavaScript" timestamp="1577847606940">
+      <screen x="-1920" y="217" width="1920" height="1080" />
+    </state>
+    <state x="-1368" y="396" key="#JavaScript/-1920.217.1920.1080/0.0.2560.1440/2560.206.1920.1080@-1920.217.1920.1080" timestamp="1577847606940" />
+    <state x="-1246" y="453" key="CommitChangelistDialog2" timestamp="1577845355522">
+      <screen x="-1920" y="217" width="1920" height="1080" />
+    </state>
+    <state x="-1246" y="453" key="CommitChangelistDialog2/-1920.217.1920.1080/0.0.2560.1440/2560.206.1920.1080@-1920.217.1920.1080" timestamp="1577845355522" />
+    <state x="899" y="314" key="CommitChangelistDialog2/-1920.217.1920.1080/0.0.2560.1440/2560.206.1920.1080@0.0.2560.1440" timestamp="1577794634372" />
+    <state x="-1364" y="399" key="Registry" timestamp="1577847288212">
+      <screen x="-1920" y="217" width="1920" height="1080" />
+    </state>
+    <state x="-1364" y="399" key="Registry/-1920.217.1920.1080/0.0.2560.1440/2560.206.1920.1080@-1920.217.1920.1080" timestamp="1577847288212" />
+    <state x="872" y="453" key="Vcs.Push.Dialog.v2" timestamp="1577794716125">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="872" y="453" key="Vcs.Push.Dialog.v2/-1920.217.1920.1080/0.0.2560.1440/2560.206.1920.1080@0.0.2560.1440" timestamp="1577794716125" />
+    <state x="-1297" y="442" width="672" height="678" key="search.everywhere.popup" timestamp="1577847624494">
+      <screen x="-1920" y="217" width="1920" height="1080" />
+    </state>
+    <state x="-1297" y="442" width="672" height="678" key="search.everywhere.popup/-1920.217.1920.1080/0.0.2560.1440/2560.206.1920.1080@-1920.217.1920.1080" timestamp="1577847624494" />
+  </component>
+</project>
